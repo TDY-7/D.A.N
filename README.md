@@ -42,6 +42,8 @@ Si vous souhaitez remplir le bol de votre animal de compagnie sans devoir attend
 
 ## Schéma du montage électronique :
 
+![Schéma D A N (1)](https://github.com/TDY-7/D.A.N/assets/147604748/e8568c52-f1cc-41bc-b155-0f0114adb78a)
+
 ## Visuel principal de D.A.N :
 
 ![Design sans titre (1) (1)](https://github.com/TDY-7/D.A.N/assets/147604748/d8212b11-e485-4e56-b26f-70c255f84793)
