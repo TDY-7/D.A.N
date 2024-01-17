@@ -8,8 +8,7 @@ Le Distributeur Automatique de Nourriture, D.A.N, a été conçu pour offrir une
 
 ## Fonctionnement : 
 
-Toutes les heures, le servo moteur s'activera pour ouvrir la petite trappe qui se trouve à proximité du bol de votre chat afin de faire tomber la nourriture dans ce dernier.
-Lorsque le récipient est presque vide, D.A.N informera le propriétaire. Si le propriétaire est à proximité, une LED rouge s'allumera et une LED verte s'éteindra, indiquant qu'il est temps de remplir le récipient prévu à cet effet. En l'absence du propriétaire, une notification sera envoyée sur son téléphone pour l'alerter.
+Toutes les heures, le servo moteur s'activera pour ouvrir la petite trappe qui se trouve à proximité du bol de votre chat afin de faire tomber la nourriture dans ce dernier. L’utilisateur recevra une notification chaque matin pour l’avertir que D.A.N est toujours opérationnel. En revanche,  lorsque le récipient est presque vide, l’utilisateur ne recevra plus de notifications et une LED rouge s’allumera pour le prévenir et ce, jusqu’à ce qu’il remplisse le récipient à nouveau.
 
 ## Fonctionnalités Clés :
 
@@ -29,7 +28,7 @@ La difficulté de ce projet réside dans le fait de devoir détecter la présenc
 
 ## Option :
 
-Si vous souhaitez remplir le bol de votre animal de compagnie alors que cela fait moins d'une heure, vous pouvez appuyer sur le bouton prévu à cet effet et le chronomètre se mettra à jour.
+Si vous souhaitez remplir le bol de votre animal de compagnie sans devoir attendre le prochain versement automatique, vous pouvez appuyer sur le bouton prévu à cet effet et le chronomètre se mettra à jour.
 
 ## Matériel :
 
@@ -39,3 +38,18 @@ Si vous souhaitez remplir le bol de votre animal de compagnie alors que cela fai
 - 1 Bouton Poussoir
 - 3 Résistances
 - Fils
+
+## Schéma du montage électronique :
+
+## Visuel principal de D.A.N :
+
+![Design sans titre](https://github.com/TDY-7/D.A.N/assets/147604748/5b72ffc5-e79d-4332-aeb3-7cda53b48838)
+
+
+## Visuel final de D.A.N :
+
+![dan1](https://github.com/TDY-7/D.A.N/assets/147604748/9101e66b-bf83-496d-892d-c067f92f5174)
+
+![dan3](https://github.com/TDY-7/D.A.N/assets/147604748/edc961a6-b769-47e0-a55d-9e660416fed6)
+
+![dan4](https://github.com/TDY-7/D.A.N/assets/147604748/daadfa8a-f315-4b32-b3fa-4d5d8511ee78)
