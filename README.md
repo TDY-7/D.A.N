@@ -36,20 +36,21 @@ Si vous souhaitez remplir le bol de votre animal de compagnie sans devoir attend
 - 1 Capteur à Ultrason HC-SR04
 - 1 Micro servo SG90 9G
 - 1 Bouton Poussoir
-- 3 Résistances
+- 1 LED
+- 2 Résistances
 - Fils
 
 ## Schéma du montage électronique :
 
 ## Visuel principal de D.A.N :
 
-![Design sans titre](https://github.com/TDY-7/D.A.N/assets/147604748/5b72ffc5-e79d-4332-aeb3-7cda53b48838)
-
+![Design sans titre (1) (1)](https://github.com/TDY-7/D.A.N/assets/147604748/d8212b11-e485-4e56-b26f-70c255f84793)
 
 ## Visuel final de D.A.N :
 
-![dan1](https://github.com/TDY-7/D.A.N/assets/147604748/9101e66b-bf83-496d-892d-c067f92f5174)
+![dan1](https://github.com/TDY-7/D.A.N/assets/147604748/15c225cd-e464-46eb-8e41-f839c3bdb242)
 
-![dan3](https://github.com/TDY-7/D.A.N/assets/147604748/edc961a6-b769-47e0-a55d-9e660416fed6)
+![dan3](https://github.com/TDY-7/D.A.N/assets/147604748/c1098bba-ef5c-4ed9-908f-d917d9549d13)
 
-![dan4](https://github.com/TDY-7/D.A.N/assets/147604748/daadfa8a-f315-4b32-b3fa-4d5d8511ee78)
+![dan4](https://github.com/TDY-7/D.A.N/assets/147604748/e1da8355-4c43-4472-bb16-027a3513da6e)
+
